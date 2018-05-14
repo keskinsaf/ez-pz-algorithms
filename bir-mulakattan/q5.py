@@ -1,3 +1,6 @@
+# program that finds largest sized set that contains consecutive numbers
+# in random order and print same list
+
 n = list(map(int, input().split()))
 
 # print(n)
