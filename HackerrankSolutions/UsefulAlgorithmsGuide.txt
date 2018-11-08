@@ -1,0 +1,10 @@
+<-------------------- Easy Algorithms -------------------->
+-Beautiful-Days-At-The-Movies
+-- Taking reverse of a number
+-- Finding digit number of a number
+
+-Between-Two-Sets
+-- Using default sort algorithm
+
+-Equalize-The-Array
+-- Using default count algorithm
